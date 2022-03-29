@@ -1,7 +1,7 @@
 ## Olà! Eu sou o Ravel Leroy.
 
-- 🔭 Hoje trabalho como Social Media
-- 🌱 Estudando Front-end
+- 💻 Hoje trabalho como Social Media
+- 📚 Estudando Front-end
 
 <div align="center">
   <a href="https://github.com/ravelsilva">
