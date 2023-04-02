@@ -1,4 +1,4 @@
-## Olà! Me chamo Ravel e sou desenvolvedor web jr..
+## Olà! Me chamo Ravel e sou desenvolvedor web jr
 
 - 💻 Atualmente trabalho como suporte técnico
 - 📚 Estudando Front-end
