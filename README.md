@@ -1,6 +1,6 @@
-## Olà! Eu sou o Ravel Leroy.
+## Olà! Me chamo Ravel e sou desenvolvedor web jr..
 
-- 💻 Hoje trabalho como Social Media
+- 💻 Atualmente trabalho como suporte técnico
 - 📚 Estudando Front-end
 
 <div align="center">
