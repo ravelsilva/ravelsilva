@@ -1,7 +1,7 @@
-## Olà! Me chamo Ravel e sou desenvolvedor web jr
+## Hello! My name is Ravel and I'm a junior web developer
 
-- 💻 Atualmente trabalho como suporte técnico
-- 📚 Estudando Front-end
+- 💻 I currently work as technical support
+- 📚 Studying Front-end
 
 <div align="center">
   <a href="https://github.com/ravelsilva">
